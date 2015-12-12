@@ -21,7 +21,7 @@
 ?>
 <html>
 	<head>
-		<title>FandomBrain News</title>
+		<title>News</title>
 		<link href="fonts/stylesheet.css" rel="stylesheet" type="text/css">
 		<link href="css/styles.css" rel="stylesheet" type="text/css">
 		<meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes" />
@@ -32,7 +32,7 @@
 		<div id="header">
         <img src="icons/menu.png" id="mm-menu-toggle" class="mm-menu-toggle"/>
         <div id="hub"><img src="icons/default.png"/></div>
-        <div id="logo">FandomBrain News</div>
+        <div id="logo">News</div>
       </div>
       <div class="container">
       <div id="all">
